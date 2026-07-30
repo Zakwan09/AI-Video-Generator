@@ -1,7 +1,3 @@
-"""
-FastAPI application entrypoint for the AI Video Generator backend.
-"""
-
 import logging
 from contextlib import asynccontextmanager
 from pathlib import Path
